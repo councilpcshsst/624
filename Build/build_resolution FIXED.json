@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "TestWeb",
+"dataUrl": "build_resolution FIXED.data.unityweb",
+"wasmCodeUrl": "build_resolution FIXED.wasm.code.unityweb",
+"wasmFrameworkUrl": "build_resolution FIXED.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
